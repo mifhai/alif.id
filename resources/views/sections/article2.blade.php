@@ -1,10 +1,10 @@
 <div class="rbt-rbt-blog-area rbt-section-gapTop rbt-section-gapBottom bg-gradient-6">
     <div class="container">
-        <div class="row mb--10 g-5 align-items-end">
+        <div class="row mb--50 g-5 align-items-end">
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="section-title text-start">
                     <span class="subtitle bg-secondary-opacity">Kajian Khusus</span>
-                    <h3 class="title w-500 color-body">Kajian Mendalam</h3>
+                    <h3 class="title w-600 color-body">Kajian Mendalam</h3>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-12">

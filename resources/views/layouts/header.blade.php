@@ -52,7 +52,7 @@
             <div class="mainbar-row rbt-navigation-start align-items-center">
                 <div class="header-left">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="/">
                             <img src="assets/images/logo/logo.png" alt="Education Logo Images">
                         </a>
                     </div>
@@ -230,7 +230,7 @@
         <div class="inner-top">
             <div class="content">
                 <div class="logo">
-                    <a href="index.html">
+                    <a href="/">
                         <img src="assets/images/logo/logo.png" alt="Education Logo Images">
                     </a>
                 </div>

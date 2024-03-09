@@ -4,7 +4,7 @@
 			<div class="row g-5 align-items-center">
 				<div class="section-title text-center">
 					<span class="subtitle bg-secondary-opacity">Tokoh</span>
-					<h2 class="title">Ulama Banjar</h2>
+					<h3 class="title w-600 color-body">Ulama Banjar</h3>
 				</div>
 			</div>
 		</div>
@@ -23,7 +23,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -40,7 +40,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -56,7 +56,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -72,7 +72,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -88,7 +88,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -104,7 +104,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -120,7 +120,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -136,7 +136,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -152,7 +152,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -168,7 +168,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -184,7 +184,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -200,7 +200,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -216,7 +216,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>
@@ -232,7 +232,7 @@
 									<div class="content">
 										<div class="inner">
 											<p class="designation">Tokoh</p>
-											<h4 class="title"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
+											<h4 class="title w-500"><a href="#">Ulama Banjar (205): H. Asfiani Norhasani, Lc</a></h4>
 										</div>
 										<div class="icon-right">
 											<a href="#"><i class="feather-arrow-right"></i></a>

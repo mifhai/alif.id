@@ -12,9 +12,11 @@
                                         <div class="section-title">
                                             <span class="subtitle bg-white-opacity d-inline-block">TOKOH</span>
                                         </div>
-                                        <h1 class="title w-600">
-                                            Choirul Anam, Tiga Wajah dalam Satu Figur (Bagian 4)
-                                        </h1>
+                                        <a href="/detail">
+                                            <h1 class="title w-600">
+                                                Choirul Anam, Tiga Wajah dalam Satu Figur (Bagian 4)
+                                            </h1>
+                                        </a>
                                         <div class="mb-5">
                                             <p class="author-date-text">Riadi Ngasiran | 07 Februari 2024</p>
                                         </div>
